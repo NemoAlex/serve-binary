@@ -1,5 +1,5 @@
 # serve-binary
-Compiled single file binary of zeit/serve
+Compiled single file binary of [zeit/serve](https://github.com/zeit/serve)
 
 ## Usage
 ```
