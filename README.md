@@ -2,7 +2,17 @@
 Compiled single file binary of [zeit/serve](https://github.com/zeit/serve)
 
 ## Usage
+
+### Linux X64
+
 ```
-sudo wget -P /bin https://github.com/NemoAlex/serve-binary/raw/master/serve && sudo chmod a+x /bin/serve
+sudo wget -P /bin https://github.com/NemoAlex/serve-binary/raw/master/Linux/serve && sudo chmod a+x /bin/serve
+serve
+```
+
+### macOS
+
+```
+sudo wget -P ~/bin https://github.com/NemoAlex/serve-binary/raw/master/macOS/serve && sudo chmod a+x ~/bin/serve
 serve
 ```
