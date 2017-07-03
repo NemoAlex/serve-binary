@@ -13,6 +13,6 @@ serve
 ### macOS
 
 ```
-sudo wget -P ~/bin https://github.com/NemoAlex/serve-binary/raw/master/macOS/serve && sudo chmod a+x ~/bin/serve
+sudo wget -P /usr/bin https://github.com/NemoAlex/serve-binary/raw/master/macOS/serve && sudo chmod a+x /usr/bin/serve
 serve
 ```
